@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace EventBusSystem
+namespace DemonDragon.EventBus
 {
     /// <summary>
     /// Provides diagnostic and lifecycle management capabilities for an event bus.

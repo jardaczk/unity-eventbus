@@ -1,4 +1,4 @@
-﻿namespace EventBusSystem
+namespace DemonDragon.EventBus
 {
 	/// <summary>
 	/// Interface for a generic event pool.

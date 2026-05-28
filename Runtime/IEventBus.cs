@@ -1,4 +1,4 @@
-﻿namespace EventBusSystem
+namespace DemonDragon.EventBus
 {
 	/// <summary>
 	/// Defines the contract for an event bus that supports publishing, subscribing, and pooling events.
