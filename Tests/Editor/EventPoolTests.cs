@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace EventBusSystem.Tests
+namespace DemonDragon.EventBus.Tests
 {
     internal class SimpleEvent : IEvent
     {

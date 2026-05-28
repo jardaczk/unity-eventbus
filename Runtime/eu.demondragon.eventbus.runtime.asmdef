@@ -1,6 +1,6 @@
 {
 	"name": "eu.demondragon.eventbus.runtime",
-	"rootNamespace": "EventBusSystem",
+	"rootNamespace": "DemonDragon.EventBus",
 	"references": [],
 	"includePlatforms": [],
 	"excludePlatforms": [],

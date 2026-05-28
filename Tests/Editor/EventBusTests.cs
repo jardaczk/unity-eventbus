@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using NUnit.Framework;
 using UnityEngine;
 
-namespace EventBusSystem.Tests
+namespace DemonDragon.EventBus.Tests
 {
     /// <summary>
     /// Thin wrapper that calls UnityEngine.TestTools.LogAssert.Expect via reflection,

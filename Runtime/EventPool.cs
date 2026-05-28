@@ -1,7 +1,7 @@
-﻿// 3. Generický Event Pool - implementuje base interface
+// 3. Generický Event Pool - implementuje base interface
 using System.Collections.Generic;
 
-namespace EventBusSystem
+namespace DemonDragon.EventBus
 {
 	/// <summary>
 	/// Generic event pool for pooling and reusing event objects of a specific type.
