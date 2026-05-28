@@ -1,0 +1,20 @@
+{
+  "name": "eu.demondragon.eventbus",
+  "version": "1.0.0",
+  "displayName": "EventBus System",
+  "description": "Lightweight type-safe event bus for Unity with object pooling, automatic dead-handler cleanup, and runtime diagnostics.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "type": "library",
+  "keywords": [
+    "eventbus",
+    "events",
+    "messaging",
+    "pooling"
+  ],
+  "author": {
+    "name": "DemonDragon",
+    "url": "https://github.com/jardaczk"
+  },
+  "dependencies": {}
+}
